@@ -1,0 +1,52 @@
+Route for vehicle 0:
+ 0 Load(0) ->  0 Load(0)
+Distance of the route: 0m
+Load of the route: 0
+
+Route for vehicle 1:
+ 0 Load(0) ->  0 Load(0)
+Distance of the route: 0m
+Load of the route: 0
+
+Route for vehicle 2:
+ 0 Load(0) ->  0 Load(0)
+Distance of the route: 0m
+Load of the route: 0
+
+Route for vehicle 3:
+ 0 Load(0) ->  16 Load(40) ->  14 Load(50) ->  12 Load(70) ->  0 Load(70)
+Distance of the route: 83m
+Load of the route: 70
+
+Route for vehicle 4:
+ 0 Load(0) ->  18 Load(20) ->  19 Load(30) ->  15 Load(70) ->  0 Load(70)
+Distance of the route: 81m
+Load of the route: 70
+
+Route for vehicle 5:
+ 0 Load(0) ->  5 Load(10) ->  3 Load(20) ->  6 Load(40) ->  9 Load(50) ->  8 Load(70) ->  0 Load(70)
+Distance of the route: 41m
+Load of the route: 70
+
+Route for vehicle 6:
+ 0 Load(0) ->  1 Load(10) ->  2 Load(40) ->  4 Load(50) ->  7 Load(70) ->  0 Load(70)
+Distance of the route: 41m
+Load of the route: 70
+
+Route for vehicle 7:
+ 0 Load(0) ->  23 Load(10) ->  25 Load(50) ->  24 Load(60) ->  0 Load(60)
+Distance of the route: 34m
+Load of the route: 60
+
+Route for vehicle 8:
+ 0 Load(0) ->  17 Load(20) ->  13 Load(50) ->  11 Load(60) ->  10 Load(70) ->  0 Load(70)
+Distance of the route: 70m
+Load of the route: 70
+
+Route for vehicle 9:
+ 0 Load(0) ->  20 Load(10) ->  22 Load(30) ->  21 Load(50) ->  0 Load(50)
+Distance of the route: 24m
+Load of the route: 50
+
+Total distance of all routes: 374m
+Total load of all routes: 460
