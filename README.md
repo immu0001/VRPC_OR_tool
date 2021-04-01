@@ -1,5 +1,4 @@
-### Multi Objective Optimisation (MOO)| Data Science Optimisation| Vehicle Routing
-Problem 🚚
+### Multi Objective Optimisation (MOO)| Data Science Optimisation| Vehicle Routing Problem 🚚 | Medium Post Here-->https://imran-malik01.medium.com/multi-objective-optimisation-moo-data-science-optimisation-vehicle-routing-problem-9c526134d6e5
 
 In this post I am going to explin and implement a VRP with demand and capacity
 constraint
