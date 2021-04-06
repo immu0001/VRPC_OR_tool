@@ -4,6 +4,8 @@
 In this post I am going to explin and implement a VRP with demand and capacity
 constraint
 
+#### .......................................................................................................................................................
+
 #### What is Vehicle Routing Prolem?
 
 ![](https://cdn-images-1.medium.com/max/720/1*SSwn5C0eLoMopGxhzHKDNA.png)
